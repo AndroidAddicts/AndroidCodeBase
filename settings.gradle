@@ -1,1 +1,1 @@
-include ':app', ':codestandards'
+include ':app', ':codestandards', ':utilsj', ':utilskt'
